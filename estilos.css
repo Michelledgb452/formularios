@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+    font-size: 28px;
+}
+.formulario{
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    background-color:pink;
+    height: 50vh;
+    font-size: 28px;
+}
+.lottie{
+    background-color:lightblue;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
